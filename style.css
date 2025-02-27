@@ -48,7 +48,9 @@ nav li{
         text-align: center;
 
     }
-
+    .text{
+        flexwrap: wrap;
+    }
 }
 section{
     justify-content: space-between;
@@ -98,7 +100,7 @@ section{
   
     padding:0%;
     margin:0%;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: space-evenly;
     
