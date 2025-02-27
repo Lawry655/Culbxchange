@@ -48,8 +48,9 @@ nav li{
         text-align: center;
 
     }
-    .text p{
-        flexwrap: wrap;
+    .serve {
+        flex-wrap: wrap;
+        flex-direction: column;
     }
 }
 section{
@@ -78,9 +79,6 @@ section{
     background-color: beige;
 }
 .servtext{
-     
-    
-
     display: flex;
     align-items: start;
     justify-content: space-between;
