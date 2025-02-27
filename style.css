@@ -74,7 +74,7 @@ section{
    
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     
         color: black;
     background-color: beige;
@@ -135,7 +135,7 @@ section{
     
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     color: black;
     background-color: beige;
 }
