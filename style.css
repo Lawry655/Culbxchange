@@ -48,7 +48,7 @@ nav li{
         text-align: center;
 
     }
-    .serve {
+    .text, .text p {
         flex-wrap: wrap;
         flex-direction: column;
     }
