@@ -31,7 +31,7 @@ nav li{
  display: none;
 }
 
-@media (max-width:'900px'){
+@media (max-width:768px){
     .btn {
         display: style;
     }
