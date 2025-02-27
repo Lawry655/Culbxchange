@@ -48,7 +48,7 @@ nav li{
         text-align: center;
 
     }
-    .text{
+    .text p{
         flexwrap: wrap;
     }
 }
