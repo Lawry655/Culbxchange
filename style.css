@@ -49,8 +49,7 @@ nav li{
 
     }
     .text, .text p {
-        flex-wrap: wrap;
-        flex-direction: column;
+        display: block;
     }
 }
 section{
